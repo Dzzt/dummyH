@@ -1,0 +1,81 @@
+SplineFontDB: 3.2
+FontName: dummyHItalic
+FullName: dummyH-Italic
+FamilyName: monospace
+Weight: Regular
+Copyright: none
+UComments: "2026-4-1: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 797 -96928282 20306]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1775004352
+ModificationTime: 1775004868
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 16 5
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 1
+
+StartChar: h
+Encoding: 104 104 0
+Width: 1000
+HStem: 271.804 56.7158<225.567 774.433>
+VStem: 168.874 56.6934<-96.7881 271.804 328.52 687.39> 774.433 56.6934<-87.3916 271.847 328.542 696.788>
+LayerCount: 2
+Fore
+SplineSet
+774.432617188 696.788085938 m 1
+ 831.125976562 696.788085938 l 1
+ 831.125976562 -87.3916015625 l 1
+ 774.432617188 -87.3916015625 l 1
+ 774.432617188 271.846679688 l 1
+ 724.69140625 271.834960938 615.456054688 271.811523438 505.163085938 271.795898438 c 0
+ 391.154296875 271.78515625 277.98828125 271.76171875 225.567382812 271.803710938 c 1
+ 225.567382812 -96.7880859375 l 1
+ 168.874023438 -96.7880859375 l 1
+ 168.874023438 687.389648438 l 1
+ 225.567382812 687.389648438 l 1
+ 225.567382812 328.51953125 l 1
+ 277.876953125 328.493164062 393.015625 328.474609375 505.155273438 328.489257812 c 0
+ 615.455078125 328.50390625 724.69921875 328.530273438 774.432617188 328.541992188 c 1
+ 774.432617188 696.788085938 l 1
+EndSplineSet
+Validated: 33
+EndChar
+EndChars
+EndSplineFont
